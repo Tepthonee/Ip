@@ -1,4 +1,4 @@
-{
+Tepth{
   "name": "MyTelegramOrgRoBot",
   "description": "get your APP ID and API HASH inside Telegram",
   "keywords": [
@@ -8,7 +8,7 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/mrismanaziz/Scrap-Man",
+  "repository": "https://Tepthonee.com/T/Ip",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
